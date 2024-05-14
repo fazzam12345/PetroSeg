@@ -12,18 +12,18 @@
 
 ---
 
-## Introduction 🌟
+## Introduction 
 This project is a web application built using Streamlit and PyTorch. It performs unsupervised segmentation on uploaded images. The segmented image can be downloaded, and the colors of the segments can be customized.
 
 ---
 
-## Acknowledgments 🙏
+## Acknowledgments 
 This code is inspired from the project [pytorch-unsupervised-segmentation](https://github.com/kanezaki/pytorch-unsupervised-segmentation) by kanezaki. The original project is based on the paper "Unsupervised Image Segmentation by Backpropagation" presented at IEEE ICASSP 2018. The code is optimized for thin section images and microscopy analysis.
 
 ---
 
-## Requirements 📋
-- Python 3.x
+## Requirements 
+- Python 3.7
 - Streamlit
 - PyTorch
 - OpenCV
@@ -68,7 +68,7 @@ This code is inspired from the project [pytorch-unsupervised-segmentation](https
 
 ---
 
-## Contributing 🤝
+## Contributing 
 Feel free to open issues and pull requests!
 
 ---
