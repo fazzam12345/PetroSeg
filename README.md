@@ -1,4 +1,4 @@
-# Unsupervised Segmentation App with Streamlit and PyTorch
+# PetroSeg: Unsupervised Segmentation App with Streamlit and PyTorch
 
 ## Table of Contents
 1. [Introduction](#introduction)
